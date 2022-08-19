@@ -7,13 +7,13 @@
 Clone the Project
 
 ```bash
-  git clone https://github.com/serkantaber/clean-pokedex
+  git clone https://github.com/serkantaber/react-pokedex
 ```
 
 Go the the Project folder
 
 ```bash
-  cd clean-pokedex
+  cd react-pokedex
 ```
 
 Install dependencies
