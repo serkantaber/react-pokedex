@@ -1,0 +1,58 @@
+/* 
+  Styling cards according to the pokemons type
+*/
+
+.normal {
+  background-color: #AAA67F;
+}
+.fighting {
+  background-color: #C12239;
+}
+.flying {
+  background-color: #A891EC;
+}
+.poison {
+  background-color: #A43E9E;
+}
+.ground {
+  background-color: #DEC16B;
+}
+.rock {
+  background-color: #B69E31;
+}
+.bug {
+  background-color: #A7B723;
+}
+.ghost {
+  background-color: #70559B;
+}
+.steel {
+  background-color: #B7B9D0;
+}
+.fire {
+  background-color: #F57D31;
+}
+.water {
+  background-color: #6493EB;
+}
+.grass {
+  background-color: #74CB48;
+}
+.electric {
+  background-color: #F9CF30;
+}
+.psychic {
+  background-color: #FB5584;
+}
+.ice {
+  background-color: #9AD6DF;
+}
+.dragon {
+  background-color: #7037FF;
+}
+.dark {
+  background-color: #75574C;
+}
+.fairy {
+  background-color: #E69EAC;
+}

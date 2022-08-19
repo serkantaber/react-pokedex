@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header h1 {
+  color: #212121;
+  font-size: 3rem;
+}
