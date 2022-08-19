@@ -107,9 +107,32 @@ hr {
 
 @media (max-width: 768px) {
   .card-container {
-    width: 330px;
+    width: 95%;
+    height: 520px;
+  }
+
+  .card-container aside {
+    font-size: 0.7rem;
+    margin-right: 5px;
+  }
+
+  .card-container h1 {
+    font-size: 1.8rem;
+  }
+
+  .card-container h2 {
+    font-size: 1rem;
+  }
+
+  .card-container p{
+    font-size: 0.7rem;
+  }
+
+  hr {
+    margin-bottom: 20px;
+    margin-top: 3px;
   }
   .container {
-    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
   }
 }

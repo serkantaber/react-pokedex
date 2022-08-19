@@ -41,8 +41,6 @@ export default function Pokemons() {
     effectRan.current = true;
   }, []);
 
-  console.log(pokemons);
-
   return (
     <>
       <InfiniteScroll
